@@ -8,6 +8,6 @@ This tool helps you to grab html code of any website and write it in a text file
 
 
 ## GetLinks
-This tool helps you to grab all the links that are present on the web page
+This tool helps you to grab all the links that are present on the web page and write it to a text file
 
 `python3 GetLinks.py`
